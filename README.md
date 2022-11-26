@@ -1,24 +1,21 @@
 # cloud-music-quinn
 
-## Project setup
+## 安装依赖
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 本地启动项目
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 项目启动并打包生成生产版本
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### 进行代码规范检查
 ```
 npm run lint
 ```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
