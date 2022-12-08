@@ -19,3 +19,7 @@ npm run build
 ```
 npm run lint
 ```
+
+### 启动服务器（cloud music server）
+
+node app.js
